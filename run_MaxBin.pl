@@ -112,6 +112,8 @@ sub main
 	my $tmp;
 	my $param;
 	my $param2;
+	
+	rand(155020061312) #Random number to make program determanistic in all steps
 
 	# Create a temporary log file
 	$k = 0;
